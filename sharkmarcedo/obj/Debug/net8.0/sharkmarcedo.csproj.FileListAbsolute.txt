@@ -1,0 +1,14 @@
+D:\Users\20241170150018\Documents\sharkmarcedo\bin\Debug\net8.0\sharkmarcedo.exe
+D:\Users\20241170150018\Documents\sharkmarcedo\bin\Debug\net8.0\sharkmarcedo.deps.json
+D:\Users\20241170150018\Documents\sharkmarcedo\bin\Debug\net8.0\sharkmarcedo.runtimeconfig.json
+D:\Users\20241170150018\Documents\sharkmarcedo\bin\Debug\net8.0\sharkmarcedo.dll
+D:\Users\20241170150018\Documents\sharkmarcedo\bin\Debug\net8.0\sharkmarcedo.pdb
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.AssemblyInfoInputs.cache
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.AssemblyInfo.cs
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.csproj.CoreCompileInputs.cache
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.dll
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\refint\sharkmarcedo.dll
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.pdb
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\sharkmarcedo.genruntimeconfig.cache
+D:\Users\20241170150018\Documents\sharkmarcedo\obj\Debug\net8.0\ref\sharkmarcedo.dll

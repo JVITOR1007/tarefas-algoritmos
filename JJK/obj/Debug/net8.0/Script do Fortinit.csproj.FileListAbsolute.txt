@@ -1,0 +1,14 @@
+D:\Users\20241170150018\Documents\JJK\bin\Debug\net8.0\Script do Fortinit.exe
+D:\Users\20241170150018\Documents\JJK\bin\Debug\net8.0\Script do Fortinit.deps.json
+D:\Users\20241170150018\Documents\JJK\bin\Debug\net8.0\Script do Fortinit.runtimeconfig.json
+D:\Users\20241170150018\Documents\JJK\bin\Debug\net8.0\Script do Fortinit.dll
+D:\Users\20241170150018\Documents\JJK\bin\Debug\net8.0\Script do Fortinit.pdb
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.AssemblyInfoInputs.cache
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.AssemblyInfo.cs
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.csproj.CoreCompileInputs.cache
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.dll
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\refint\Script do Fortinit.dll
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.pdb
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\Script do Fortinit.genruntimeconfig.cache
+D:\Users\20241170150018\Documents\JJK\obj\Debug\net8.0\ref\Script do Fortinit.dll

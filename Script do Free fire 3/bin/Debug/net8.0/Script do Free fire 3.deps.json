@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Script do Free fire 3/1.0.0": {
+        "runtime": {
+          "Script do Free fire 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Script do Free fire 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

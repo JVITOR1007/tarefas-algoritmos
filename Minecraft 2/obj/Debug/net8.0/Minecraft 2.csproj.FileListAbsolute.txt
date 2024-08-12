@@ -1,0 +1,14 @@
+D:\Users\20241170150018\Documents\Minecraft 2\bin\Debug\net8.0\Minecraft 2.exe
+D:\Users\20241170150018\Documents\Minecraft 2\bin\Debug\net8.0\Minecraft 2.deps.json
+D:\Users\20241170150018\Documents\Minecraft 2\bin\Debug\net8.0\Minecraft 2.runtimeconfig.json
+D:\Users\20241170150018\Documents\Minecraft 2\bin\Debug\net8.0\Minecraft 2.dll
+D:\Users\20241170150018\Documents\Minecraft 2\bin\Debug\net8.0\Minecraft 2.pdb
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.AssemblyInfoInputs.cache
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.AssemblyInfo.cs
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.csproj.CoreCompileInputs.cache
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.dll
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\refint\Minecraft 2.dll
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.pdb
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\Minecraft 2.genruntimeconfig.cache
+D:\Users\20241170150018\Documents\Minecraft 2\obj\Debug\net8.0\ref\Minecraft 2.dll
